@@ -1,0 +1,33 @@
+N1C04_entregable
+
+Muestra en los leds el tiempo que se mantuvieron presionados los pulsadores
+
+-------------------------------------------------------------------------------------------------
+
+N1C06_entregable
+
+Enciende y apaga leds por comandos recibidos por UART, y saca por UART estado de leds y pulsadores
+
+-------------------------------------------------------------------------------------------------
+
+N1C08_entregable
+
+Mueve el servo según potenciómetro en ADC, pulsadores, y UART
+
+-------------------------------------------------------------------------------------------------
+
+N1C10_entregable
+
+Según carácter recibido por UART prende un led y muestra un nº en display 7 segmentos. A su vez, mientras se presiona una tecla, muestra otro nº en display
+
+-------------------------------------------------------------------------------------------------
+
+N1C12_entregable
+
+Implementa calculadora. Toma datos de teclado matricial y envia por UART el resultado
+
+-------------------------------------------------------------------------------------------------
+
+N1C14_entregable
+
+Juego de Simón
