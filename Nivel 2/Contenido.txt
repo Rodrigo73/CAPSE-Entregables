@@ -7,3 +7,9 @@ Lee magnetómetro, agrega estampa de tiempo de RTC, graba en tarjeta SD y saca po
 N1C08_entregable
 
 PROYECTO. Implementación de teclado numérico USB
+
+-------------------------------------------------------------------------------------------------
+
+N2C13_entregable
+
+PROYECTO ECLIPSE. USB OTG. Crea archivo de texto en pendrive
