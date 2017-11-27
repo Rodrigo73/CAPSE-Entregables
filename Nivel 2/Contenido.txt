@@ -13,3 +13,9 @@ PROYECTO. Implementación de teclado numérico USB
 N2C13_entregable
 
 PROYECTO ECLIPSE. USB OTG. Crea archivo de texto en pendrive
+
+-------------------------------------------------------------------------------------------------
+
+N2C14_entregable
+
+PROYECTO. Usa módulo WiFi y web embebida para mostrar estado LED1 y valor de potenciómetro en ADC
